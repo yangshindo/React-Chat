@@ -16,8 +16,4 @@ function App() {
   )
 }
 
-/*
-renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps}/>}
-*/
-
 export default App;
